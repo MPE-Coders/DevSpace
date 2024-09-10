@@ -1,7 +1,7 @@
 merge.sh
-crushdumps/
+crashdumps/
 players/
-plugins_data/
+plugin_data/
 resource_packs/
 worlds/
 banned-ips.txt
