@@ -42,10 +42,10 @@ git add .
 
 git commit -m "Обновлены субмодули"
 
-git pull origin main
+git pull origin master
 
 
 
 # Пуш изменений в основной проект
 
-git push origin main
+git push origin master
