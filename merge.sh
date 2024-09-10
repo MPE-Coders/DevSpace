@@ -7,4 +7,4 @@ cd ..
 git submodule update --remote --merge
 git add .
 git commit -m "Обновлены субмодули"
-git pull origin main
+git pull origin master
